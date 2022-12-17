@@ -1,2 +1,5 @@
 # top
-The Odin Project
+# The Odin Project
+
+This repo will cointain projects from the odin project course 
+
