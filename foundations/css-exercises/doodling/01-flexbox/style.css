@@ -67,7 +67,7 @@
     justify-content: center;
     flex-wrap: wrap; /*Flex wrap*/
     /*Flex Container Direction*/
-    flex-direction: column;
+    flex-direction: row-reverse; /*this also correct the flex container's order*/
     /*Alignment Considerations*/
     align-items: center;
 }
