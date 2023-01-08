@@ -68,6 +68,8 @@
     flex-wrap: wrap; /*Flex wrap*/
     /*Flex Container Direction*/
     flex-direction: column;
+    /*Alignment Considerations*/
+    align-items: center;
 }
 
 .photo-grid-item {
