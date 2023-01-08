@@ -66,6 +66,8 @@
     display: flex;
     justify-content: center;
     flex-wrap: wrap; /*Flex wrap*/
+    /*Flex Container Direction*/
+    flex-direction: column;
 }
 
 .photo-grid-item {
