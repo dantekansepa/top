@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+/*Flex Container*/
 .menu-container {
     color: #fff;
     background-color: #5995DA;
@@ -12,6 +13,8 @@
     justify-content: center;
 }
 
+/*Aligning A Flex Item 
+& Distributing Multiple Flex Items*/
 .menu {
     /* border: 1px solid #fff; */
     width: 900px;
@@ -19,6 +22,7 @@
     justify-content: space-between;
 }
 
+/*Grouping Flex Items*/
 .links {
     /* border: 1px solid #fff; */
     display: flex;
@@ -29,6 +33,7 @@
     margin-left: 20px;
 }
 
+/*Cross-Axis (Vertical) Alignment*/
 .header-container {
     color: #5995DA;
     background-color: #D6E9FE;
